@@ -1,0 +1,19 @@
+{
+  "name": "CodeIgniter-3.0.21",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.16",
+    "angular-bootstrap": "~0.14.3"
+  }
+}
